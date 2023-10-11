@@ -1,0 +1,8 @@
+okay Idk if this is it but.
+
+Project planning
+data collection
+data preprocessing
+model selection
+training
+validation 

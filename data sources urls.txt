@@ -1,0 +1,12 @@
+https://universe.roboflow.com/robot-perception/ric-classifier/dataset/3
+https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset/code
+https://universe.roboflow.com/final-dataset-p18gb/1_pet/dataset/2
+https://universe.roboflow.com/final-dataset-p18gb/2_hdpe-kxfjj
+https://universe.roboflow.com/final-dataset-p18gb/5_pp-vjemi
+https://universe.roboflow.com/final-dataset-p18gb/4_ldpe-jrqxq
+https://universe.roboflow.com/nir/recycling-codes-detection-v2
+
+
+
+Links with datasets. Most of these are R.I.Cs but most plastic packaging has them. I'm thinking the ones that dont have them
+raw data can assist there...e.g water bottles, plastic bags  etc
